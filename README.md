@@ -7,7 +7,8 @@ This repository is for our branching and merge conflict activity
 ## Members
 
 | Name | Role | GitHub Username |
-| Jada
+
+| Jada |
 
 ## Contact
 
