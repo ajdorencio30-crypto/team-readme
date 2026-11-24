@@ -2,7 +2,7 @@
 
 ## About
 
-This repository is for our branching and merge conflict activity
+BSCS, G9-Lithium, Person D 👍
 
 ## Members
 
