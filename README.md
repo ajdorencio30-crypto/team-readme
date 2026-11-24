@@ -18,5 +18,4 @@ Ask us questions through the Issues tab.
 
 ## Learning Goals
 - Learn how to code
-- Practice using 
 - **Have the best experience (trust me)**
