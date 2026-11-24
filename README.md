@@ -2,7 +2,10 @@
 
 ## About
 
+
 BSCS, G9-Lithium, Person D 👍
+We are Grade 9 - Lithium, idk what this is.
+
 
 ## Members
 
