@@ -9,6 +9,6 @@ This repository is for our branching and merge conflict activity
 Ask us questions through the Issues tab.
 
 ## Learning Goals
-- Code
-- Code better
-- **Code the best**
+- Learn how to code
+- Practice using Github
+- **Have the best experience (trust me)**
