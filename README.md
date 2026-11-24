@@ -18,5 +18,5 @@ Ask us questions through the Issues tab.
 
 ## Learning Goals
 - Learn how to code
-- Practice using Github
+- using Github
 - **Have the best experience (trust me)**
