@@ -22,3 +22,8 @@ Ask us questions through the Issues tab.
 ## Learning Goals
 - Learn how to code
 - **Have the best experience (trust me)**
+
+## Tools
+- ChatGPT
+- Google
+- Microsoft Word
